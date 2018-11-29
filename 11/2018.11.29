@@ -1,0 +1,4 @@
+今天主要完成的工作汇报：
+  今天主要是找了一下关于代理签名的论文来看，论文Identity-Based Proxy-Oriented Data Uploading and Remote Data Integrity Checking in Public Cloud
+  2016年发表在TIFS上面。准备只针对签名部分看下它的构造方案，然后再看看能否应用。再准备找一些关于代理签名的方案看一下，因为论文没找到比较好的，
+  所以在准备找找看看硕士论文方面的方案构造，多了解一下，然后在进行构造自己的方案。
