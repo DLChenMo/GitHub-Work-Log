@@ -1,0 +1,6 @@
+今天主要完成的汇报：
+  今天主要是从网上找了一些关于区块链在医疗方面应用的文章，不过基本上期刊都不太好，看着引用量还挺高的。
+  Integrating Blockchain for Data Sharing and Collaboration in Mobile Healthcare Applications（17年发在PIMRC上）
+  该论文主要是利用可穿戴设备收集病人的数据，然后利用云存储数据，在区块链中进行记录。主要存在的问题：未对病人的隐私信息进行处理，
+  在数据共享的时候容易暴露病人的隐私信息。在数据共享的时候采用Hyperledger Fabric区块链来进行共享控制，
+  该链的最大特点是私有链，该组织成员只有通过注册才能访问，限制了数据的共享。
