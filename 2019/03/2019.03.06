@@ -1,0 +1,11 @@
+今天主要完成的工作汇报：
+  今天主要还是看了区块链在医疗方面相关的论文，论文的级别不高，但是引用量都还好。
+  Secure Attribute-Based Signature Scheme With Multiple Authorities for Blockchain in Electronic Health Records Systems（18年ACCESS）
+  主要不足之处，数据存储在本地化，未存储在云中，利用ABE实现数据共享，共享过程中属性控制过程较为复杂，效率低下，限制了实用性。
+ 
+  Cloud Based Healthcare Application Architecture and Electronic Medical Record Mining: 
+  An Integrated Approach to Improve Healthcare System（14年International Conference on Computer and Information Technology (ICCIT)） 
+  提出了一个三层的医疗云架构，主要是客户端，云存储层，逻辑层主要是第三方机构，如政府，医院这样的机构。
+  主要不足之处在于：数据存储在医疗云中，并没有对病人医疗方面的信息进行记录，无法保证数据被篡改。
+  论文中还提出了案例，病人和医生使用医疗云的就诊记录，病人通过医疗云预约看病，云会依据医生的病人数目安排看病时间，医生通过云查询病人的医疗记录，
+  医生将新的治疗结果存储到云中。医生和病人频繁的对云进行操作，会导致云的负担太重。
