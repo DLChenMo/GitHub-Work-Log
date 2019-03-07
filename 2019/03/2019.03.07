@@ -1,0 +1,7 @@
+今天主要完成的工作汇报：
+  今天主要是从网上找医疗在区块链中应用相关的论文。然后看了一下其中的方案的不足之处。
+  BBDS: Blockchain-Based Data Sharing for Electronic Medical Records in Cloud Environments（17年）
+  使用区块链解决了存储在云中的敏感数据相关的访问控制挑战，但是对于用户想要共享数据的过程较为复杂，效率较低，不符合实际情况。
+  
+  Blockchain: A Panacea for Healthcare Cloud-Based Data Security and Privacy?（18）
+  医疗数据涉及过多的隐私问题，使用区块链来保证这些数据的隐私问题。将数据存储在区块而不是存储在云中，会限制整个系统的实用性。
