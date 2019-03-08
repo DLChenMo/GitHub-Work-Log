@@ -1,0 +1,8 @@
+今天主要完成的工作汇报：
+  今天主要是找了一篇论文，准备下周组会汇报。论文名称：
+  A Three-Layer Privacy Preserving Cloud Storage Scheme Based on Computational Intelligence in Fog Computing（18年IEEE TRANSACTIONS ON EMERGING TOPICS IN COMPUTATIONAL INTELLIGENCE）
+  该论文主要内容是提出了基于雾提出了一个三层隐私保护模型。主要是在用户层和云服务器层加入了一个雾服务器，用来保护隐私。
+  核心就是将用户数据加密，然后将数据进行分割，用户层使用本地化设备存储1%的数据，然后将剩余数据上传到雾服务器中，雾服务器将存储4%的数据，
+  然后再将剩余数据上传到云中，由云进行存储。
+  文中提到了Reed-Solomon算法，将数据分成k个部分，产生了m分冗余数据。至少拥有k个部分的数据才可以恢复出原数据，否则无法获取原数据。通过这个算法，
+  将数据存储到不同的地方，来实现数据的隐私保护。不过对于这个算法，还没有具体了解。准备明天再详细的看一下这个算法。
