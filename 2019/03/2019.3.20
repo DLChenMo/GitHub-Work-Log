@@ -1,0 +1,5 @@
+今天主要完成的工作汇报：
+  今天主要是小组会，听李备说的那个穿刺加密的方案，只是听了穿刺那个方案。主要应用背景是邮件这样非同步信息，思考了一下，使用穿刺加密只是为了在丢失秘钥后，
+  使任何人都无法访问之前的信息。觉得如果用户更新秘钥后，该用户仍能访问之前的信息，应该会好点。不过觉得这样也有问题，更新密钥丢失的话，
+  获取丢失密钥的用户应该也可以访问数据。然后找了一篇论文Enhancement of a Lightweight Attribute-Based
+  Encryption Scheme for the Internet of Things（19年IEEE Internet of Things Journal），准备看看关于属性加密相关的论文。
