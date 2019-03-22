@@ -1,0 +1,4 @@
+今天主要完成的工作汇报：
+  今天主要是看了一下论文A lightweight attribute-based encryption scheme for the Internet of Things
+  （15年发在Future Generation Computer Systems），只是刚开始看。主要讲了是将IOT和ABE结合，由于以前方案的加密操作都需要配对操作，
+  但是这篇论文使用ECC来加密，提高了效率。方案的具体部分还没看！准备先看明白这篇论文。
