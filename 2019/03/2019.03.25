@@ -1,5 +1,6 @@
 今天主要完成的工作：
-  今天主要是上课时听杨宝华汇报的一篇论文，说将神经网络应用于数据加密。主要原理是用户将数据加密，然后将密文上传到云中，云利用神经网络对数据进行同态加密，
-  然后用户访问时，解密数据就可以了。主要理论是这样，不过我还存在很多问题，云利用神经网络进行同态加密不太理解，然后就是用户访问数据是怎么进行的，
-  也不太清楚。然后就问杨宝华要了这篇论文，准备有时间了解一下，想了解一下怎么利用神经网络来进行数据加密。然后就是继续看
-  A lightweight attribute-based encryption scheme for the Internet of Things论文。不过还没怎么看懂，准备明天继续看！
+  今天主要是上课时听杨宝华汇报的一篇论文CryptoNets: Applying Neural Networks to Encrypted Data with High Throughput and Accuracy，
+  （International Conference on Machine Learning 2016.）说将神经网络应用于数据加密。主要原理是用户将数据加密，然后将密文上传到云中，
+  云利用神经网络对数据进行同态加密，然后用户访问时，解密数据就可以了。主要理论是这样，不过我还存在很多问题，云利用神经网络进行同态加密不太理解，
+  然后就是用户访问数据是怎么进行的，也不太清楚。然后就问杨宝华要了这篇论文，准备有时间了解一下，想了解一下怎么利用神经网络来进行数据加密。
+  然后就是继续看 A lightweight attribute-based encryption scheme for the Internet of Things论文。不过还没怎么看懂，准备明天继续看！
