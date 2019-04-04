@@ -1,0 +1,4 @@
+今天主要完成的工作汇报：
+  今天看了一篇基于身份的云存储完整性检测的论文Identity-Based Remote Data Integrity Checking With Perfect Data Privacy Preserving for 
+  Cloud Storage（17年TIFS），基于身份能够减轻证书管理的复杂性。第三方如TPA通过数据拥有者的签名确定用户的身份信息，从而代替用户进行完整性审计。
+  在整个审计的过程中，用户的身份信息都会暴露。并未保护用户的身份信息。
