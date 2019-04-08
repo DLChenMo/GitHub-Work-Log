@@ -1,0 +1,5 @@
+今天主要完成的工作汇报：
+  今天主要在看论文的代码，主要考虑代码中的一些问题。先准备看着能不能把简单部分的代码写出来，遇到有问题的在考虑。
+  其次看了Flexible and Fine-Grained Attribute-Based Data Storage in Cloud Computing（17年IEEE TRANSACTIONS ON SERVICES COMPUTING）
+  但是没看多少，主要是说将ABE和群进行结合，实现数据细粒度访问的同时也支持了用户的撤销。看了一下，将用户的秘钥分成两个部分，一部分是用户自身的属性，
+  另外一部分是和用户所属的群联合。更新的时候通过更新后部分秘钥来实现退出用户的撤销。这篇论文还准备详细看看，觉得应该会有些地方值得改进！
