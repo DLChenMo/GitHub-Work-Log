@@ -1,0 +1,5 @@
+今天主要完成的任务汇报：
+  今天主要是看了Flexible and Fine-Grained Attribute-Based Data Storage in Cloud Computing（17年IEEE TRANSACTIONS ON SERVICES COMPUTING）这篇论文，
+  将ABE和群结合起来，能够实现用户的撤销。撤销的原理是群管理员更新群密钥和重加密秘钥，然后群内未撤销的用户来更新密钥。同时云会根据重加密密钥来更新密文。
+  这篇论文的用户撤销过程较为复杂，更新过程涉及密钥较多。群公钥，用户密钥和重加密密钥。属性加密结合用户撤销的方案中，目前看的论文基本上都是在更新用户密钥
+  的同时产生重加密密钥，然后云对密文进行重加密，达到用户撤销的效果。
