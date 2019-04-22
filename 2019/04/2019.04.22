@@ -1,0 +1,4 @@
+今天主要完成的工作汇报：
+  今天主要是看了一下论文Flexible and Fine-Grained Attribute-Based Data Storage in Cloud Computing（17年IEEE TRANSACTIONS ON SERVICES COMPUTING），
+  只看懂了大致算法，对于其中细节部分还需要在看，主要是将ABE和群进行结合，实现用户撤销的过程，但是感觉撤销过程和密文的加解密都比较复杂，
+  准备看懂之后看看能不能将其过程进行简化。然后根据这篇论文做PPT。论文还需要进一步看。
