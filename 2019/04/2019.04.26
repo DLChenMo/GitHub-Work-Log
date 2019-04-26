@@ -1,0 +1,7 @@
+今天主要完成的工作汇报：
+  今天主要看了属性撤销中对访问策略进行隐藏的论文A CP-ABE Scheme Supporting Attribute Revocation and Policy Hiding in Outsourced Environment
+  ( 2018 IEEE 9th International Conference on Software Engineering and Service Science (ICSESS))这篇论文感觉内容比较粗糙，
+  系统主要实体有数据拥有者(DO)，数据存储服务器(DS)，TA，数据管理者(DM)，数据使用者(DU)。论文中说TA将密文存储在DS上，将密钥分配给DM和DU。
+  当DU想要使用数据时，由DM对数据进行预解密，然后将预解密密文发送给DU，DU解密得到明文。而且对于属性隐藏方面，我也没看明白是怎么进行隐藏的，内容比较简单。
+  准备看那篇属性隐藏的论文。
+  
