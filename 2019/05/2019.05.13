@@ -1,0 +1,5 @@
+今天主要完成的工作汇报：
+  今天主要是从网上找了一篇论文A Large-Scale Concurrent Data Anonymous　Batch Verification Scheme for Mobile　Healthcare Crowd Sensing
+  (19年IEEE INTERNET OF THINGS JOURNAL)。主要说的是提出了基于无证书聚合签名的大规模并行数据匿名的批量验证方案。将来自不同用户的信息进行聚合，
+  产生签名，通过验证该剧和签名保证数据的完整性。但是感觉存在一定的问题。因为聚合签名之后无法进行解析，如果聚合的某个数据块被破坏的话，
+  那么这个数据块聚合的签名也就无效了，如果无法确定时某个数据块的问题，则表明所有聚合数据块应该都无法使用了。
