@@ -1,0 +1,5 @@
+今天主要完成的工作汇报：
+  今天主要是看了An enhanced Data Possession Checking scheme using Identity Based Signature论文，
+  (Proceedings of the 2nd International Conference on Inventive Communication and Computational Technologies (ICICCT 2018))
+  主要是基于身份签名构建merkle树来进行完整性审计。其中merkle树的有点能够实现指定数据块的验证。通过将数据块的哈希值构建成merkle，完整性验证时，
+  将云存储中的merkle树的根值与用户计算的merkle树的根值相比较，就能验证数据是否能够完整的存储在云中。
