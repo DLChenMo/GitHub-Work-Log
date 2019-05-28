@@ -1,0 +1,4 @@
+今天主要完成的工作汇报：
+  今天主要是看了一下A Large-Scale Concurrent Data Anonymous Batch Verification Scheme for Mobile Healthcare Crowd Sensing 论文，
+  这篇论文主要是使用了聚合签名来实现数据的批量验证，同时也保护了数据采集者的身份隐私。但是论文好像并没有对数据的隐私进行保护，
+  因为论文背景是在医疗环境下，那么对于采集到的数据应该也要进行保护，但是论文中并没提及。
