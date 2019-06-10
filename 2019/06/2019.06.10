@@ -1,0 +1,4 @@
+今天主要完成的工作汇报：
+  今天看了一篇关于无证书聚合签名的论文，是一篇会议论文。Cryptanalysis and improvement of a pairing-free　certificateless signature scheme
+  （18年发表在　International ISC conference on Information Security and Cryptology)这篇论文主要是基于一篇不安全的无证书聚合签名方案进行
+  改进，感觉并没有太多的创新点。然后就是看了一下论文的实验代码，该巨额不够完善，准备完善一下。
