@@ -1,0 +1,5 @@
+今天主要完成的任务汇报：
+  今天主要是找了一篇论文Privacy-preserving smart IoT-based healthcare big data storage and self-adaptive access control system
+  （19年Information Sciences）这篇论文主要是利用属性加密实现医疗数据的共享。提出了两种机制，普通访问和紧急访问机制。
+  普通访问机制是医院人员利用属性私钥对数据进行解密访问，紧急访问机制是当病人出现意外情况时，医生能够利用该机制获取病人的医疗数据进行治疗。
+  其中涉及的算法比较多，还没看明白，准备明天继续看。
