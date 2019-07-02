@@ -1,0 +1,5 @@
+今天完成的任务汇报：
+  今天先是粗略的是看了一下昨天的那篇论文，发现其方案过于复杂，然后就没仔细看。然后重新找了一篇论文
+  Privacy-preserving fusion of IoT and big data for e-health(18年Future Generation Computer Systems)
+  利用IOT设备监测病人的生理信息，加密后发送给病人，病人验证通过之后加密上传到云中进行存储。拥有属性的数据用户就可以解密访问数据。
+  同时，论文指出病人可以利用关键字搜索更新用户病人设置的访问策略。
