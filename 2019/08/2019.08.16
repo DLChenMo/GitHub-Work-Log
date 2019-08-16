@@ -1,0 +1,8 @@
+今天主要完成的任务汇报：
+  今天主要是看了一篇数据聚合的论文Privacy-Enhanced Data Aggregation Scheme Against Internal Attackers in Smart Grid（14年TII），
+  这篇论文和以前看的论文相差不大，采用同态加密的方式对数据进行聚合。这篇论文中智能电表的私钥生成是由其自身生成的，然后利用私钥签名信息
+  向注册机构进行注册，同时注册机构为其选择一个盲化因子，便于智能电表生成数据时进行盲化。最后智能电表将数据上传到聚合者进行聚合。
+  聚合者消除盲化因子，恢复明文。
+  后来看到一篇指出该论文不足之处，就是敌手利用智能电表的签名容易获取用户的私钥，进而篡改数据。
+  同时，19年IOT上面的Privacy Preserving Data Aggregation Scheme for Mobile Edge Computing Assisted IoT Applications
+  这篇论文就是采用这篇论文的算法，大致上基本相同，只是将移动边缘计算和IOT设备套用进去，换了个背景。
