@@ -1,0 +1,4 @@
+今天主要完成的汇报：
+  今天主要是看了一篇论文CIPPPA: Conditional Identity Privacy-Preserving Public Auditing for Cloud-Based WBANs 
+  against Malicious Auditors（19年TCC）。这篇论文主要是讲了在无限体域网中审计中条件身份隐私保护。
+  同时考虑到TPA在审计过程中存在与云服务器合谋，采用区块链记录审计结果，可以防止TPA在审计过程中与云服务器合谋。
