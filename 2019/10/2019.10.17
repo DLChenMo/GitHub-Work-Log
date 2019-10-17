@@ -1,0 +1,7 @@
+今天主要完成的任务汇报：
+  今天主要是依据19年TCC的那篇论文在做PPT。然后从这篇论文中的参考文献找了一篇论文在看，
+  Efficient Public Verification of Data Integrity for Cloud Storage Systems from Indistinguishability Obfuscation（17年TIFS的论文）
+  这篇论文主要贡献点是降低了TPA在审计阶段的计算开销，同时将方案扩展支持批量审计和支持对数据的动态操作。
+  看了一下方案是如何降低TPA在验证时候的计算开销，主要是用户在上传数据后生成一个验证程序，依据数据生成一个MAC，并将验证程序发送到云服务器上，
+  将MAC发送至TPA，云服务器接收到挑战信息后，依据验证程序和存储的数据生成这个MAC，将MAC发送至TPA，最后TPA验证MAC是否相等证明数据是否完整。
+  但是具体的过程还没看，准备明天再看看。
