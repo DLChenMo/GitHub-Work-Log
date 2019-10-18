@@ -1,0 +1,7 @@
+今天主要完成的工作汇报：
+  今天主要是看了Efficient Public Verification of Data Integrity for Cloud Storage Systems from 
+  Indistinguishability Obfuscation（17年TIFS），这篇论文主要是为了降低TPA审计的计算开销，将审计任务外包给云服务器。
+  主要是用户会选定一个MAC密钥k，嵌入到一个审计程序中，同时用户将MAC密钥安全发送给TPA。TPA将挑战信息发送给云服务器后，
+  云服务器执行审计程序，如果数据完整的存储在云服务器中，那么将使用MAC密钥k加密文件标志和挑战信息。TPA利用MAC密钥k加密文件标志和
+  挑战信息，如果两个结果相同，则表明云服务器完整的存储在云服务器上。但是感觉这部分没有必要，因为在审计程序中已经表明，
+  如果数据完整的存储在云服务器上才会返回证明，否则云服务器返回空值。
