@@ -1,0 +1,5 @@
+今天主要完成的任务汇报：
+    今天在看SEPDP: Secure and Efficient Privacy Preserving Provable Data Possession in Cloud Storage（18年TSC）论文。
+    这篇论文主要的亮点在于完整性审计的过程中未使用双线性配对，从而能够提高效率。看了一下文件签名的具体构造方式，比较简单。
+    但是这样的构造方式不够安全。于佳老师后来也指出了这种方式的不安全性，云服务器可以利用公开参数伪造出证明，从而通过TPA的验证。
+    准备在看一下方案，思考怎么构建的话才能够使方案更加安全。
