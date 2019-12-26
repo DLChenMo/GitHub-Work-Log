@@ -1,0 +1,4 @@
+今天主要完成的任务汇报：
+  今天主要是改论文，将安全性证明和实验部分的内容进行调整。
+  然后在看Identity-Preserving Public Integrity Checking with Dynamic Groups for Cloud Storage（18年TSC）。
+  这篇论文感觉存在一定的问题。主要是恶意的云服务器能够伪造证明通过TPA的验证。
