@@ -1,0 +1,8 @@
+这一周完成的任务汇报：
+  1、找了两篇关于密钥管理的论文，Design of Secure User Authenticated Key Management Protocol for Generic IoT Networks和
+  GROUPIT: Lightweight Group Key Management for Dynamic IoT Environments（两篇都是18年IOT的论文），准备从密钥管理方面入手，
+  看看有没有好的方法来实现想法。
+  
+  2、结合着审稿意见在看IBEET-AOK: ID-based Encryption with Equality Test Against Off-line KGAs in Cloud Computing这篇论文。
+  目前看完了方案部分，但是方案中的细节还没理清楚，需要在进一步看一下方案，进行理解。其次看引言和相关工作部分，有部分细节需要修改。
+  主要是一些语法问题和格式问题，这部分问题不大。尽快看完这篇论文。
