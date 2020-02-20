@@ -1,0 +1,5 @@
+今天主要完成的任务汇报：
+   今天主要是结合无证书的共享数据的公有审计论文在思考论文是否使用无证书签名这个点，这个点使用起来并不是太合适。
+   随后在看CIPPPA: Conditional Identity Privacy-Preserving Public Auditing for Cloud-Based WBANs against Malicious Auditors（19年TCC）
+   这篇论文主要是利用假名机制来保护数据拥有者的身份隐私。此外结合区块链的机制来防止第三方审计者和云服务器合谋。
+   主要是TPA将审计结果记录如区块链中，数据拥有者通过区块链中的记录来验证TPA是否诚实的执行审计任务。看看这个点能不能应用。准备明天再看看这篇论文。
