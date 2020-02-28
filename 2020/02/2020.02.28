@@ -1,0 +1,4 @@
+今天主要完成的任务汇报：
+   今天主要是在改FCS论文的引言部分，将相关工作放入引言部分。其次在看Identity-based encryption with outsourced equality test in cloud computing，
+   （16年information sciences）。这篇论文中主要是应用了身份加密来代替公钥加密进行相等性判定，但是这篇论文中并未考虑到对关键字的保护。
+   接下来准备在找找最近两年的论文添加进去，同时删除部分原来论文。
