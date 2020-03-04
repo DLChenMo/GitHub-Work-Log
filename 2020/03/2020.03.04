@@ -1,0 +1,4 @@
+今天主要完成的任务汇报：
+   今天主要是在找关于身份加密的相等性判定，然后在看Efficient and secure identity-based encryption scheme with equality test in cloud computing
+   （17年FGCS），但是没办法下载，只看了摘要部分，没有看出关于离线关键字的相关信息。准备明天试试别的方法进行下载。同时准备再看看别的论文，
+   准备在添加一篇关于身份加密的相等性测试。
