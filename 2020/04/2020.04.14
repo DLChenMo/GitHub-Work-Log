@@ -1,0 +1,5 @@
+今天主要完成的任务汇报：
+    今天主要是在看17年特刊论文SeShare: Secure cloud data sharing based on blockchain and public auditing。
+这篇论文主要是利用区块链来记录对共享数据的修改操作和文件修改后的审计标签。保证了数据修改后审计标签的唯一性。并不是利用区块链来进行审计。
+准备大致看一下整体思路，不具体看细节。其次在看Do it Secretly, Keep it Safe: A Verifiable Outsourcing Protocol for Multiparty Computation on 4G/5G
+Enabled Internet-of-Things，只是看完摘要部分，觉得摘要部分不够简洁。
