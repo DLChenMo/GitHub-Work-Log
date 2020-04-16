@@ -1,0 +1,4 @@
+今天主要完成的任务汇报：
+   今天主要在看Stochastic Blockchain for IoT Data Integrity（18年IEEE Transactions on Network Science and Engineering），
+主要是利用区块链来验证IoT环境下数据的完整性问题。利用区块链主要是解决了单点故障问题即注册过程中的注册中心问题。主要是在IoT节点边缘部署区块链网络，
+对数据进行验证。但是论文具体还没看完，准备明天再看具体过程。
