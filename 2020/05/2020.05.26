@@ -1,0 +1,4 @@
+今天主要完成的任务汇报：
+   今天主要是在看Blockchain Empowered Arbitrable Data Auditing Scheme for Network Storage as a Service 论文。
+主要是利用区块链来实现对数据的审计和仲裁。在预备知识中提及到一个交换哈希的概念,之前没有见过。但是这个概念并没有在论文中使用。
+他的审计过程也没有用到交换哈希。具体的细节还在看。边看边做PPT，准备组会汇报。
