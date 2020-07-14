@@ -1,0 +1,3 @@
+今天主要完成的任务汇报：
+    今天主要是找了一篇论文Remote data possession checking with privacy-preserving authenticators for cloud storage （17年FGCS），这篇论文主要是对审计标签进行保护，
+对数据的审计标签进行进一步处理，使得云服务器和共有验证者无法访问真实的签名。但是我看在审计过程中还是需要使用数据拥有者的公钥信息。论文的具体细节部分还在看。
