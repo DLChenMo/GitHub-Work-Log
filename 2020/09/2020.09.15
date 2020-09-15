@@ -1,0 +1,4 @@
+今天主要完成的任务汇报：
+   今天主要是找了MuR-DPA: Top-Down Levelled Multi-Replica Merkle Hash Tree Based Secure Public Auditing for Dynamic Big Data Storage on Cloud（15年TC的论文）。是利用merkle树来实现的，
+摘要中说对merkle树进行分层，同时实现了支持块索引的认证。想看看这个分层的目的是什么？具体方案还没看完，准备明天看完，弄清楚两点：1、为什么需要分层来构建merkle树，这么做的目标是什么？
+2、为什么需要支持块索引认证，因为他论文中之处别的论文不支持块索引认证，所以需要弄明白这其中的含义。
